@@ -1,4 +1,4 @@
-var textArray = ['https://imgur.com/FvP0LJd.png', 'https://imgur.com/fuJG7Fw.png', 'https://imgur.com/UwjtE4r.png', 'https://imgur.com/Qx4WXPr.png'];
+var textArray = ['https://imgur.com/FvP0LJd.png', 'https://imgur.com/fuJG7Fw.png', 'https://imgur.com/UwjtE4r.png', 'https://imgur.com/Qx4WXPr.png', 'https://i.imgur.com/ZIgu8IU.png'];
 var randomAds = Math.floor(Math.random() * textArray.length);
 
 function generateBlockAds(src) {
