@@ -3,7 +3,7 @@ var randomAds = Math.floor(Math.random() * textArray.length);
 
 function generateBlockAds(src) {
     var output = "";
-    output += '<a href="https://www.siinblog.com?utm_campaign=SiinGroup" target="_blank">';
+    output += '<a href="https://blog.siingroup.com/?utm_campaign=SiinGroup" target="_blank">';
     output += '<img src="' + src + '" id="rsSiinBlog" width="720px" height="90px"/>';
     output += '</a>';
     return output;
